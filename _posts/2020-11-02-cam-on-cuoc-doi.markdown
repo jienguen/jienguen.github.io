@@ -3,7 +3,7 @@ layout: page
 title: Cảm ơn cuộc đời
 ---
 
-Tình cờ đọc được bài thơ hay của Hazrat Inayat Khan trích trong cuốn sách *Linh hồn của tiền*:
+Tình cờ đọc được bài thơ của Hazrat Inayat Khan trích trong cuốn sách *Linh hồn của tiền*:
 ```markdown
 Tôi xin Người sức mạnh
 Người cho tôi thử thách
